@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prokapnev.06.Task1", "Prokapnev.06.Task1\Prokapnev.06.Task1.csproj", "{7022D73B-ABA8-46AB-B155-BAA7ECE75E9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prokapnev.06.Task2", "Prokapnev.06.Task2\Prokapnev.06.Task2.csproj", "{D547B03E-709F-457E-9107-F95317024D1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7022D73B-ABA8-46AB-B155-BAA7ECE75E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7022D73B-ABA8-46AB-B155-BAA7ECE75E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7022D73B-ABA8-46AB-B155-BAA7ECE75E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D547B03E-709F-457E-9107-F95317024D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D547B03E-709F-457E-9107-F95317024D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D547B03E-709F-457E-9107-F95317024D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D547B03E-709F-457E-9107-F95317024D1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
