@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khmyl.06.Task2", "Khmyl.06.Task2\Khmyl.06.Task2.csproj", "{B69F4981-3E4C-406C-B792-CBF45B9BC6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khmyl.06.Task3", "Khmyl.06.Task3\Khmyl.06.Task3.csproj", "{A1B69BC3-9AE6-4AD1-9FEB-7625B7C3A558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khmyl.06.Task1", "Khmyl.06.Task1\Khmyl.06.Task1.csproj", "{71064633-FF35-4E9B-901F-632D28320AAE}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69F4981-3E4C-406C-B792-CBF45B9BC6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69F4981-3E4C-406C-B792-CBF45B9BC6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69F4981-3E4C-406C-B792-CBF45B9BC6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69F4981-3E4C-406C-B792-CBF45B9BC6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B69BC3-9AE6-4AD1-9FEB-7625B7C3A558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B69BC3-9AE6-4AD1-9FEB-7625B7C3A558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B69BC3-9AE6-4AD1-9FEB-7625B7C3A558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B69BC3-9AE6-4AD1-9FEB-7625B7C3A558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71064633-FF35-4E9B-901F-632D28320AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71064633-FF35-4E9B-901F-632D28320AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71064633-FF35-4E9B-901F-632D28320AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71064633-FF35-4E9B-901F-632D28320AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
