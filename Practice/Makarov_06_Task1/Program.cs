@@ -1,0 +1,1 @@
+﻿int[] newArray = Array.Empty<int>();
