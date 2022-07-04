@@ -1,8 +1,8 @@
-﻿
-object[] myArray = new object[3];
+﻿object[] myArray = new object[3];
 myArray[0] = 32;
 myArray[1] = 'A';
 myArray[2] = "Hey";
+
 
 for (int i = 0; i < myArray.Length; i++)
 {
@@ -11,8 +11,10 @@ for (int i = 0; i < myArray.Length; i++)
 
 Console.WriteLine();
 
-Console.WriteLine(myArray[0] = +Int32.MaxValue);
-Console.WriteLine((string)myArray[2] + " guys!");
+object newItem = myArray[0];
 
 
-//додумал))
+int newNum = (int)myArray[0] + int.MaxValue;
+string str = (string)myArray[2] + " guys!";
+Console.WriteLine(newNum);
+Console.WriteLine(str);
