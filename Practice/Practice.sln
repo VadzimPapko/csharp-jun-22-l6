@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sadovski.6.Task1", "Sadovski.6.Task1\Sadovski.6.Task1.csproj", "{2685AD7E-2B4B-4A10-8B9B-E3A0D61EA096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sadovski.6.Task2", "Sadovski.6.Task2\Sadovski.6.Task2.csproj", "{A98D0742-333E-4375-A42A-A50BDE0A3648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2685AD7E-2B4B-4A10-8B9B-E3A0D61EA096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2685AD7E-2B4B-4A10-8B9B-E3A0D61EA096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2685AD7E-2B4B-4A10-8B9B-E3A0D61EA096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98D0742-333E-4375-A42A-A50BDE0A3648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98D0742-333E-4375-A42A-A50BDE0A3648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98D0742-333E-4375-A42A-A50BDE0A3648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98D0742-333E-4375-A42A-A50BDE0A3648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
