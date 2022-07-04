@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladimirov.06.Task1", "Vlad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladimirov.06.Task2", "Vladimirov.06.Task2\Vladimirov.06.Task2.csproj", "{64FFE2FF-8B00-4B9A-A65D-D9CFF663D718}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladimirov.06.Task3", "Vladimirov.06.Task3\Vladimirov.06.Task3.csproj", "{FAD7F8A1-C976-4335-8B99-434704894474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{64FFE2FF-8B00-4B9A-A65D-D9CFF663D718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64FFE2FF-8B00-4B9A-A65D-D9CFF663D718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64FFE2FF-8B00-4B9A-A65D-D9CFF663D718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD7F8A1-C976-4335-8B99-434704894474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD7F8A1-C976-4335-8B99-434704894474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD7F8A1-C976-4335-8B99-434704894474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD7F8A1-C976-4335-8B99-434704894474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
