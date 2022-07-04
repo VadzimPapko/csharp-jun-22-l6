@@ -1,0 +1,1 @@
+﻿int[] myArray = new int[] { };
