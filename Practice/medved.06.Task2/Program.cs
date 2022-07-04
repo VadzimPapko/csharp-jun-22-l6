@@ -10,4 +10,4 @@ for (int i = 0; i < myArray.Length; i++)
 }
 
 
-// застрял немогу ничего прибавить(((((((((
+//myArray[0] += Int32.MaxValue;   
