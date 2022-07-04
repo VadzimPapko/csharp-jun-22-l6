@@ -14,14 +14,16 @@ namespace Program
             }
 
             int index = 0;
-            for( int i = 0; i < myMass.Length - 1; i++ )
+            int Maxel = myMass[index];
+            for( int i = 0; i < myMass.Length; i++ )
             {
-                if( myMass[i] > myMass[i+1])
+                if( Maxel < myMass[i])
                 {
+                    Maxel = myMass[i];
                     index = i;
                 }
             }
-            Console.WriteLine("Максимальный элемент: {0} его индекс {1}", myMass[index], index );
+            Console.WriteLine("Максимальный элемент: {0} его индекс {1}", Maxel, index );
             foreach(var el in myMass)
             {
                 Console.Write(el+" ");
