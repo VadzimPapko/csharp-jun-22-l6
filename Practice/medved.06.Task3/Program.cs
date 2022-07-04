@@ -13,11 +13,13 @@ for (int i = 0; i < myArray.Length; i++)
     Console.Write(myArray[i] + " | ");
 }
 
-Console.WriteLine("Max element");
+
 int maxElement = myArray.Max();
 int indexMin = Array.IndexOf(myArray, maxElement);
+
 Console.WriteLine("Max element");
 Console.WriteLine(maxElement);
+
 Console.WriteLine("Index");
 Console.WriteLine(indexMin);
 
