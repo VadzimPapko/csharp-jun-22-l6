@@ -15,4 +15,4 @@ Console.WriteLine(myArray[0] = +Int32.MaxValue);
 Console.WriteLine((string)myArray[2] + " guys!");
 
 
-//додумал додумал))
+//додумал))
