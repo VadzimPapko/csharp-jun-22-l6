@@ -14,5 +14,15 @@ foreach (int i in array)
 
 Console.WriteLine();
 
-int max = array.Max();
-Console.WriteLine($"Максимальный элемент равен: {max}");
+int max  = array[0];
+int index = 0;
+
+for (int i = 0; i < array.Length; i++)
+{
+    if( max < array[i])
+    {
+        max = array[i];
+        index = i;
+    }
+}
+Console.WriteLine($"Максимальный элемент равен: {max}, индекс {index}");
