@@ -9,12 +9,8 @@ for (int i = 0; i < array.Length; i++)
     Console.Write(array[i] + " ");
 }
 
-for (int i = 0; i < array.Length; i++)
-{
-    array[0] = (int)array[0] + Int32.MaxValue;
-    array[2] = (string)array[2] + newString;
-    break;
-}
+array[0] = (int)array[0] + Int32.MaxValue;
+array[2] = (string)array[2] + newString;
 
 Console.WriteLine("\nOur new array:");
 
