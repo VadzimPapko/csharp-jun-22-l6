@@ -6,11 +6,11 @@ for (int i = 0; i < arr.Length; i++)
     Console.Write(arr[i] + " ");
 }
 
+Console.WriteLine(" ");
 for (int i = 0; i < arr.Length; i++)
 {
     arr[0] =+ int.MaxValue;
-    string s = " guys!";
-    arr[2] = "Hey " + " guys!";
+    arr[2] = "Hey" + " guys!";
     Console.Write(arr[i] + " ");
 }
 
