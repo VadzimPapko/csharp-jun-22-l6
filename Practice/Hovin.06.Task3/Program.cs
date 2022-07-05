@@ -23,3 +23,16 @@ for (int i = 0; i < array.Length; i++)
 }
 
 Console.WriteLine("\nMax value = "+ maxValue + " with index = " + indexOfMax);
+
+// 2 Solution for find max value
+
+int biggestValue = default;
+for (int i = 0; i < array.Length; i++)
+{
+    if (biggestValue < array[i])
+    {
+        biggestValue = array[i];
+    }
+}
+
+Console.WriteLine(" The biggest value " + biggestValue);
