@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konyahina.06.Task1", "konya
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konyahina.06.Task2", "konyahina.06.Task2\konyahina.06.Task2.csproj", "{733CFD0E-A8D8-4956-9530-2349BF5F1C3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konyahina.06.Task3", "konyahina.06.Task3\konyahina.06.Task3.csproj", "{635E951B-BF39-40D9-AA72-CE5A4211DD1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{733CFD0E-A8D8-4956-9530-2349BF5F1C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{733CFD0E-A8D8-4956-9530-2349BF5F1C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{733CFD0E-A8D8-4956-9530-2349BF5F1C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635E951B-BF39-40D9-AA72-CE5A4211DD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635E951B-BF39-40D9-AA72-CE5A4211DD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635E951B-BF39-40D9-AA72-CE5A4211DD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635E951B-BF39-40D9-AA72-CE5A4211DD1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
